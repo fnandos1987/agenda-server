@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nome": "Dead",
+		"sobrenome": "Pool",
+        "curriculo": "mutante mercenário"
+    },
+    {
+        "id": 2,
+        "nome": "Tony",
+		"sobrenome": "Stark",
+        "curriculo": "Milionário, playboy, filantropo"
+    },
+    {
+        "id": 3,
+        "nome": "Ezio",
+		"sobrenome": "Auditore",
+        "curriculo": "mestre assassino"
+    }
+]
